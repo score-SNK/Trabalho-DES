@@ -1,0 +1,37 @@
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\tarefas.exe.config
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\tarefas.exe
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\tarefas.pdb
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\obj\Debug\tarefas.csprojResolveAssemblyReference.cache
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\obj\Debug\tarefas.exe
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\obj\Debug\tarefas.pdb
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\MySql.Data.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\Google.Protobuf.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\ZstdNet.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\System.Buffers.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\bin\Debug\MySql.Data.xml
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas\tarefas\obj\Debug\tarefas.csproj.tarefas.exe.config
+C:\Users\Tecnico\Downloads\tarefas\tarefas\bin\Debug\tarefas.exe.config
+C:\Users\Tecnico\Downloads\tarefas\tarefas\obj\Debug\tarefas.exe
+C:\Users\Tecnico\Downloads\tarefas\tarefas\obj\Debug\tarefas.pdb
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\tarefas.exe.config
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\obj\Debug\tarefas.exe
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\obj\Debug\tarefas.pdb
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\tarefas.exe
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\tarefas.pdb
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\MySql.Data.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\Google.Protobuf.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\ZstdNet.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\System.Buffers.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\bin\Debug\MySql.Data.xml
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\obj\Debug\tarefas.csprojResolveAssemblyReference.cache
+C:\Users\Lilian\OneDrive - Etec Centro Paula Souza\DES\projetos\floricultura\tarefas2\tarefas\obj\Debug\tarefas.csproj.tarefas.exe.config
